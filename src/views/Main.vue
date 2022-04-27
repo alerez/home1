@@ -4,7 +4,9 @@
       <div class="main__body">
         <div class="main__description description">
           <div class="description__body">
-            <div class="description__title">Создадим и реализуем <br> проект газобетонного <br> дома с плосской крышей <br> под ваш участок и ваши <br> требования</div>
+            <div class="description__title">НАДЕЖНЫЙ ДОМ С<br>
+              ПЛОСКОЙ КРЫШЕЙ<br>
+              УЖЕ В ЭТОМ ГОДУ</div>
             <div class="description__button">{{ store.mainData.btn }}</div>
           </div>
         </div>
